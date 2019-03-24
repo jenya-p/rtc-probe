@@ -1,0 +1,11 @@
+video.preview{position: fixed; width: 106px; height: 80px; right: 20px;bottom: 20px;
+	background: black;
+	box-shadow: 2px 2px 2px 0px #0000006e;
+}
+
+video.screen-view, video.camera-view {width: 106px; height: 80px;}
+
+
+.proctor-view-wrap{}
+.proctor-view-wrap .proctor-view{}
+.proctor-view-wrap [data-role=hangup]{}
